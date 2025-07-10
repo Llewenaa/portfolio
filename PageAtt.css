@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url("PageAtt.png") ;
+  background-size: cover;           
+  background-repeat: no-repeat;     
+  background-position: center;      
+  background-attachment: fixed; 
+}  
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+
+a:hover{
+    background-color: #C17D3E;
+    text-decoration: none;
+    color: wheat;
+}
+
+.profil,
+.contact{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 50px;
+    border: 3px solid #7BA6C6;
+    padding: 10px;
+    display: inline-block;  
+    border-radius: 100px; 
+    font-family: cursive;
+    background-color: #EBA8D5;
+    width: 220px;
+    height: 70px;
+    font-family: 'Italiana';
+}
+
+.projets{
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 50px;
+    border: 3px solid #BF70A9;
+    padding: 10px;
+    display: inline-block; 
+    border-radius: 100px; 
+    font-family: cursive;
+    background-color: #A1C4DB;
+    width: 220px;
+    height: 70px;
+    font-family: 'Italiana';
+}
+
+.titre{
+    display: inline-block;
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 530px;
+    font-size: 40px;
+    color: black;
+     -webkit-text-stroke: 1.5px #B93FA7;
+    font-family: 'Italiana';
+}
+
+.sousTitre{
+    display: inline-block;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 480px;
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+    -webkit-text-stroke: 1.5px #a03891;
+    font-family: cursive;
+}
