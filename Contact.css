@@ -12,10 +12,10 @@ img{
 
  .titres{
  position: absolute;
-  top: 10%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgba(120, 50, 110, 0.5); /* fond pastel semi-transparent */
+  /* background-color: rgba(120, 50, 110, 0.5); fond pastel semi-transparent */
   padding: 12px 20px;
   border-radius: 8px;
   color: #fffafc;
@@ -25,10 +25,10 @@ img{
 
  .sousTitres{
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -40%);
-  background-color: rgba(120, 50, 110, 0.5); /* fond pastel semi-transparent */
+  /* background-color: rgba(116, 90, 112, 0.5); fond pastel semi-transparent */
   border-radius: 8px;
   color: #fffafc;
   font-size: 35px;
@@ -55,7 +55,7 @@ img{
  .nom{
     display: flex;
     margin-top: 50px;
-    margin-left: 100px;
+    margin-left: 50px;
     font-family: 'Italiana';
     font-style: italic;
  }
@@ -64,7 +64,7 @@ img{
  #mail{
     display: flex;
     margin-top: 10px;
-    margin-left: 100px;
+    margin-left: 40px;
     width: 350px;
     height: 40px;
     background-color: #EBA8D5;
@@ -76,7 +76,7 @@ img{
  .message{
     display: flex;
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 50px;
     font-family: 'Italiana';
     font-style: italic;
  }
@@ -84,7 +84,7 @@ img{
 #msg{
     display: flex;
     margin-top: 10px;
-    margin-left: 100px;
+    margin-left: 45px;
     width: 350px;
     height: 200px;
      background-color: #EBA8D5;
@@ -115,4 +115,3 @@ img{
    background-color: #A1C4DB;
    border-radius: 50px;
 }
-
