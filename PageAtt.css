@@ -75,3 +75,29 @@ a:hover{
   font-style: italic;
 }
 
+.logo1{
+    position: absolute;
+    top: 670px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.logo2{
+    position: absolute;
+    top: 670px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.logo3{
+    position: absolute;
+    top: 670px;
+    left: 800px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
