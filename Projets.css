@@ -110,3 +110,21 @@ body{
     margin: 30px;
 }
 
+#logofooter {
+  height: 50px;
+  width: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  font-size: small;
+  margin-top: 1800px;
+  color: azure;
+  background-color: #72655a;
+  font-style: italic;
+}
