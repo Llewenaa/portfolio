@@ -8,6 +8,14 @@ body{
     background-color: #9c699dd9;
 }
 
+#logoNav{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 120px;
+    height: 120px;
+}
+
 .anime{
     position: absolute;
     top: 210px;

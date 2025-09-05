@@ -8,6 +8,14 @@ body{
     background-color: #9a6c93;
 }
 
+#logoNav{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 120px;
+    height: 120px;
+}
+
  .titres{
  position: absolute;
   top: 25%;
