@@ -66,18 +66,38 @@ body{
 #logofooter {
   height: 50px;
   width: 50px;
-  margin: 0;
-  padding: 0;
 }
 
-footer {
+.footer {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   flex-direction: row;
-  font-size: small;
-  margin-top: 910px;
+  font-size: 14px;
+  margin-top: 920px;
   color: azure;
-  background-color: #72655a;
   font-style: italic;
+}
+
+.social-links {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-left: 880px;
+  gap: 25px;
+  font-family: 'Italiana', serif;
+  font-style: italic;
+}
+
+.social-links a {
+  color: #f0f0f0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-size: 25px;
+}
+
+.social-links a:hover {
+  color: #C17D3E;
+  background-color: #7BA6C6;
+  border-radius: 40px;
 }
