@@ -116,13 +116,13 @@ a:hover{
   width: 50px;
 }
 
-.footer {
+#footer {
   display: flex;
   align-items: center;
   justify-content: flex-start;
   flex-direction: row;
   font-size: 14px;
-  margin-top: -60px;
+  margin-top: -50px;
   color: azure;
   font-style: italic;
 }
